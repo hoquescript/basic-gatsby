@@ -8,6 +8,12 @@ export const portfolios = {
     {
       type: "featured",
       name: "Dot Bangladesh",
+      image: require("./image/hero/002-phone.png"),
+    },
+    
+    {
+      type: "featured",
+      name: "Dot Bangladesh",
       image: require("./image/hero/hero2.png"),
     },
     {
