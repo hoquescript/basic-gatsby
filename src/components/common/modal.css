@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+.modal-image{
+  height: 250px;
+}
+.wish-content{
+  color: #111a28;
+  text-align: left;
+}
+.wish-title{
+  /* font-family: 'Dancing Script', cursive; */
+  font-size: 14px;
+  line-height: 20px;
+  color: #111a28;
+
+}
