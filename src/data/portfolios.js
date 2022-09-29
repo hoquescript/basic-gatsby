@@ -37,11 +37,7 @@ export const portfolios = {
       name: "Dot Bangladesh",
       image: require("./image/hero/hero6.jpg"),
     },
-    {
-      type: "featured",
-      name: "Dot Bangladesh",
-      image: require("./image/hero/293713824_1084636635474416_4812242495996815638_n.jpg"),
-    },
+ 
   ],
   Logo: [
     {
