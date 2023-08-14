@@ -69,12 +69,12 @@ const Header = () => {
             </li>
             <li>
               <a onClick={handleScroll} href="#skill">
-                Skill
+                Work Process
               </a>
             </li>
             <li>
               <a onClick={handleScroll} href="#portfolio">
-                Portfolio
+                Project
               </a>
             </li>
             <li>

@@ -17,7 +17,7 @@
 
 .intro p {
   font-size: 22px;
-  color: #00cf5d;
+  color: #6d9bea;
 }
 
 .intro h1 {
@@ -27,7 +27,7 @@
 }
 
 .intro h3 {
-  color: #00cf5d;
+  color: #6d9bea;
 }
 
 .intro ul {
@@ -47,7 +47,7 @@
   content: "";
   left: -15px;
   top: 10px;
-  background-color: #00cf5d;
+  background-color: #6d9bea;
   width: 8px;
   height: 8px;
   border-radius: 10px;

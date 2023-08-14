@@ -27,7 +27,7 @@ const About = () => {
               <Button
                 link="https://github.com/WahidHoquee/basic-gatsby/blob/main/src/data/file/MyResume.pdf?raw=true"
                 target="_blank"
-                bgColor="#00cf5d"
+                bgColor="#6d9bea"
                 title="Get Resume"
               />
               <Button clickEvent link="#skill" ml="15px" title="My Skills" />

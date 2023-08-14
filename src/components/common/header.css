@@ -43,7 +43,7 @@ header.compaq .container {
   position: absolute;
   left: calc(50% - 5px);
   top: calc(50% + -9px);
-  background-color: #00cf5d;
+  background-color: #6d9bea;
   height: 100vh;
   width: 100vw;
   border-radius: 40px;
@@ -78,14 +78,14 @@ header.compaq .container {
 
 .menubar li a.btn-download {
   display: inline-block;
-  border: solid 2px #00cf5d;
+  border: solid 2px #6d9bea;
   padding: 5px 15px;
   border-radius: 4px;
 }
 
 .mobile-nav {
   position: absolute;
-  background: #00cf5d;
+  background: #6d9bea;
   right: 0;
   top: 8px;
   padding: 10px;

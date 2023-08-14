@@ -20,7 +20,7 @@ const Contact = () => {
               <Button
                 title="Contact Me"
                 mt="25px"
-                bgColor="#00cf5d"
+                bgColor="#6d9bea"
                 color="#fff"
                 link="mailto:suvashinidaliya@gmail.com"
               />
