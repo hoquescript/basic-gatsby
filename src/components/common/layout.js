@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div style={{}}>
+      <div style={{ overflow: "hidden" }}>
         <main>{children}</main>
         <Footer />
       </div>

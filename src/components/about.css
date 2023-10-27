@@ -3,16 +3,14 @@
 }
 
 .about {
-  padding-right: 100px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
 
-.about > * {
-  flex: 1;
+.about-details {
+  width: 60%;
 }
-
 .about-details p {
   line-height: 2;
 }
@@ -22,9 +20,10 @@
 }
 
 .about-image {
+  width: 40%;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .about-image img {

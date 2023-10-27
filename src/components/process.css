@@ -1,0 +1,36 @@
+.process {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 50px;
+  row-gap: 80px;
+}
+
+.step {
+}
+.step h3 {
+  font-size: 32px;
+  font-weight: 500;
+  font-family: "Syne", sans-serif;
+  border-bottom: 1px solid #575757;
+  padding-bottom: 5px;
+}
+.step h3 span {
+  color: #575757;
+  font-weight: 400;
+}
+
+.step p {
+  color: #e8e8e8;
+  font-size: 18px;
+  margin-top: 20px;
+  font-weight: 400;
+  min-height: 125px;
+}
+
+.step a {
+  color: #6d9bea;
+  text-decoration: none;
+  display: inline-block;
+  padding-bottom: 2px;
+  border-bottom: 1px solid #6d9bea;
+}

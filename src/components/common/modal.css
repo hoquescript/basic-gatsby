@@ -1,16 +1,59 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap");
 
-.modal-image{
+.modal-image {
   height: 250px;
 }
-.wish-content{
-  color: #111a28;
+.wish-content {
+  color: #fff;
   text-align: left;
 }
-.wish-title{
+.wish-title {
   /* font-family: 'Dancing Script', cursive; */
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 18px;
+  line-height: 24px;
   color: #111a28;
+  color: #fff;
+}
 
+.wish-button {
+  background-color: #6d9bea;
+  border: none;
+  font-size: 16px;
+  padding: 10px 20px;
+  color: #fff;
+  display: block;
+  margin: auto;
+}
+
+.dice-title {
+  font-size: 20px;
+  line-height: 30px;
+  margin-top: 20px;
+  color: rgb(109, 155, 234);
+}
+.dice-wrapper {
+  margin-top: 40px;
+}
+.dice-wrapper button:not(:last-child) {
+  margin-right: 20px;
+}
+
+.dice-content {
+  margin-top: 40px;
+  line-height: 30px;
+}
+
+.dice-content-sp {
+  line-height: 50px;
+}
+
+.dice-subtitle {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.dice-icon {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 100px;
 }

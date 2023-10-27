@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 import {
   Intro,
   LoveToDo,
@@ -8,17 +8,22 @@ import {
   Contact,
 } from "../components"
 import { Layout, SEO } from "../components/common"
-import Modals from '../components/common/modal'
+import Modals from "../components/common/modal"
+import Process from "../components/Process"
+import Projects from "../components/Projects"
 
 const IndexPage = () => (
   <>
     <Layout>
       <SEO title="Suvashini Daliya" />
+      <Modals />
       <Intro />
       <About />
-      <Skill />
-      <LoveToDo />
-      <Portfolio />
+      <Process />
+      <Projects />
+      {/* <Skill />
+      <LoveToDo /> */}
+      {/* <Portfolio /> */}
       <Contact />
     </Layout>
   </>

@@ -31,7 +31,7 @@ export const Footer = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  // href="https://github.com/zonayedpca/zonayed.me"
+                  // href="https://github.com/zonayedpca/suvashini.me"
                 >
                   <p>
                     <FaStar /> Star
@@ -42,7 +42,7 @@ export const Footer = () => {
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  // href="https://github.com/zonayedpca/zonayed.me"
+                  // href="https://github.com/zonayedpca/suvashini.me"
                 >
                   <p>
                     <FaCodeBranch /> Fork

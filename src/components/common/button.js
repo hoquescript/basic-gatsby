@@ -16,6 +16,7 @@ const Button = ({
   mb,
   ml,
   mr,
+  style,
 }) => {
   const handleClick = e => {
     e.preventDefault()
@@ -38,6 +39,7 @@ const Button = ({
         color,
         borderColor,
         backgroundColor: bgColor,
+        ...style,
       }}
       target={target}
       onClick={clickEvent && handleClick}
@@ -54,7 +56,7 @@ const Button = ({
 
 Button.defaultProps = {
   title: "Button",
-  // link: "https://zonayed.me",
+  // link: "https://suvashini.me",
   target: "",
   marginTop: 0,
   marginBottom: 0,
