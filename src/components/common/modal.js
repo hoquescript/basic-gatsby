@@ -31,7 +31,7 @@ const customStyles = {
     transform: "translate(-50%, -50%)",
     padding: "20px",
     width: "80%",
-    height: "35rem",
+    // height: "35rem",
     textAlign: "center",
     fontSize: "25px",
     overflowX: "hidden",
